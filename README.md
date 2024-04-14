@@ -1,1 +1,2 @@
 # Clock-Time-Project
+Clock Time Project, a simple web application created using HTML, CSS, and JavaScript to display the current time and date dynamically. With this project, users can  view the current time and date, along with the day of the week, in a visually  interface. Whether you need to check the time for scheduling purposes or simply want to stay organized, the Clock Time Project provides a solution right at your fingertips.
